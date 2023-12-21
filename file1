@@ -1,0 +1,5 @@
+this file tells us how we can push our repo into remote that is same repo
+for that first create the same repo in remote without adding and readme file 
+just create then follow the instructions given in the repo you created the repo
+in the remote.Add the git remote add origin git@github.com:prudhvisaikumar/systemrepo.git in the config file of local repo
+
